@@ -1,0 +1,10 @@
+{
+    "name": "brain",
+    "version": "1.0.0",
+    "private": true,
+    "dependencies": {
+        "brain.js": "^2.0.0-alpha.12",
+        "console-stamp": "^0.2.9",
+        "lodash": "^4.17.15"
+    }
+}
